@@ -4,3 +4,4 @@ password.txt
 node_modules/
 !important.log
 about.html
+data.txt
