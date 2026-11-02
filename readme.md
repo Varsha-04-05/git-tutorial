@@ -6,3 +6,4 @@ the best ways are:
 -Sleep
 -Code
 -Repeat
+Thank you for visit my repo.
